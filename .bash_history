@@ -107,3 +107,80 @@ cd ..
 clear
 ll
 exit
+clear
+yum install git -y
+clear
+guut --version
+git --version
+clear
+git --version
+ls al
+ls -al
+git init .
+clear
+la -al
+ls -al
+clear
+touch aws linux devops
+ll
+git add aws
+git status
+clear
+
+git status
+git commit -m "msg added to aws"
+clear
+cat aws
+cat >>aws
+clear
+git commit -m "aws file edited" aws
+git log
+git show f0bdba8670a251ce137bdeebec7f3827d0de432c --name -only
+git show f0bdba8670a251ce137bdeebec7f3827d0de432c --name-only
+clear
+git add linux devops
+git atatus
+git status
+git commit -m "two files commited" .
+git status
+clear
+git commit -m "msg" linux
+clear
+git add .
+git commit -m "all files commited" .
+clear
+git commit -m "msg" linux
+clear
+cat >linux
+git commit -m "msg added" linux
+clear
+git config user.name "saiprasad"
+git config user.email "saiprasadh2912@gmail.com"
+clear
+cat >>linux
+git commit -m "msg added" linux
+ll
+clear
+git status
+git log
+git log -2
+clear
+git rm --cached linux
+git status
+clera
+clear
+rm -rf linux
+ll
+git retore linux
+git restore linux
+ll
+git restore linux
+clear
+git brranch
+git branch
+git branch xyz
+git branch
+git checkout xyz
+git branch
+clear
+ll
