@@ -184,3 +184,168 @@ git checkout xyz
 git branch
 clear
 ll
+git remote add origin https://github.com/saiprasad2912/xyz.git
+ll
+git branch
+git checkout master
+git branch
+clear
+ll
+git push -u origin master
+clear
+cat aws
+clear
+git checkout xyz
+clear
+ll
+git checkout aws
+clear
+gut branchname
+git branchname
+git branch
+git checkout xyz
+git chechout master
+git checkout master
+clear
+ll
+clear
+touch pdf word jpeg
+ll
+git push -u origin master
+clear
+ll
+git add *
+git commit -m "commited new files"
+git status
+giit push -u origin master
+git push -u origin master
+clear
+ll
+git status
+git rm --cached *
+clear
+ll
+cat aws
+git pull awws
+git pull aws
+clear
+rm -rf aws
+ll
+git push -u origin master
+clear
+git add *
+git status
+clear
+ll
+rm -rf pdf word jpeg
+ll
+clear
+git branch
+git branch prasad
+git checkout prasad
+ll
+clear
+touch aws pdf jpeg
+ll
+git status
+git add *
+git status
+clear
+rm -rf *
+ll
+clear
+giut branch
+git branch
+git checkout master
+clear
+ll
+git checkout prasad
+ll
+clear
+git branch
+git checkout master
+ll
+clear
+touch aws linux devops
+ll
+clear
+git checkout prasad
+ll
+clear
+touch pdf word jpeg
+ll
+clear
+git checkout master
+clear
+git add *
+git status
+git add .
+git status
+clear
+git status
+clear
+git add .
+git commit -m "adding new files" master
+clear
+git status
+clear
+ll
+rm -rf *
+ll
+git branch -d prasad
+git branch -d xyz
+git branch -d master
+clear
+ll
+git branch
+git checkout master
+git push -u origin master
+clear
+ll
+clear
+touch txt msg sbi
+ll
+clear
+git add *
+git commit -m "adding new files" master
+git commit -m "adding new files" 
+clear
+rm -rf .
+rm -rf *
+clear
+ll
+clear
+cat ?etc/Passwd
+cat /etc/passwd
+clear
+userdel PRASAD
+userdel SAI
+userdel SPY
+clear
+cat /etc/passwd
+clear
+ll
+git branch
+clear
+git --version
+clear
+touch aws devops linux
+ll
+clear
+git add *
+git status
+git commit -a
+clear
+ll
+git status
+git rm *
+git remove .
+git remote .
+clear
+git status
+git push
+clear
+ll
+touch aws linux gcp
+git add *
+git commit -m "adding new files"

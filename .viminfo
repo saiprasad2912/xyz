@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1679140840,,"q!"
 :wq!
 |2,0,1678527895,,"wq!"
 
@@ -25,16 +27,31 @@
 # Registers:
 
 # File marks:
-'0  6  19  ~/cloud-computing/AWS/file1
-|4,48,6,19,1678527895,"~/cloud-computing/AWS/file1"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1679140840,"~/.git/COMMIT_EDITMSG"
+'1  6  19  ~/cloud-computing/AWS/file1
+|4,49,6,19,1678527895,"~/cloud-computing/AWS/file1"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1679140840,"~/.git/COMMIT_EDITMSG"
+-'  6  19  ~/cloud-computing/AWS/file1
+|4,39,6,19,1678527895,"~/cloud-computing/AWS/file1"
 -'  6  19  ~/cloud-computing/AWS/file1
 |4,39,6,19,1678527895,"~/cloud-computing/AWS/file1"
 -'  1  0  ~/cloud-computing/AWS/file1
 |4,39,1,0,1678527807,"~/cloud-computing/AWS/file1"
+-'  1  0  ~/cloud-computing/AWS/file1
+|4,39,1,0,1678527807,"~/cloud-computing/AWS/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1679140834	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/cloud-computing/AWS/file1
 	*	1678527886	0
